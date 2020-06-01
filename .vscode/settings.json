@@ -1,0 +1,9 @@
+{
+"window.zoomLevel": -1,
+"emmet.includeLanguages": {"javascript": "javascriptreact"},
+    "emmet.syntaxProfiles": {
+        "javascript":"jsx"
+    },
+    "emmet.triggerExpansionOnTab": true,
+   "explorer.confirmDelete":false
+}
